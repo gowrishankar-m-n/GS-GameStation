@@ -1,0 +1,93 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: url(../assets/about-bg4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav-bar img{
+    max-width: 30px;
+    max-height: 30px;
+}
+
+.logo{
+    display: flex;
+    align-items: start;
+    justify-content: space-around;
+    gap: 10px;
+}
+
+.nav-items{
+    display: flex;
+    gap: 3rem;
+    /* justify-content: space-between; */
+}
+
+.nav-bar{
+    display: flex;
+    align-items: center;
+    color: white;
+    backdrop-filter: blur(5px);
+    justify-content: space-between;
+    padding: 20px;
+    font-size: 20px;
+    box-shadow: 0px 0px 10px rgba(139, 110, 110, 0.9);
+    
+}
+
+.nav-bar a{
+    color: white;
+    text-decoration: none;
+}
+
+/* Hero-Section  */
+
+.hero-section{
+    max-width: 100%;
+    height: 70%;
+    color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 70px;
+}
+
+.hero-section h1{
+    font-size: 60px;
+    padding-bottom: 20px;
+}
+
+.hero-section p{
+    font-size: 20px;
+    padding-bottom: 60px;
+}
+
+.game-now{
+    padding: 15px 50px;
+    background-color: aqua;
+    font-size: 15px;
+    border: none;
+    border-radius: 10px;
+    
+}
+
+
+/* footer  */
+/* 
+.footer{
+    background-color: rgba(0, 0, 0, 0.733);
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer h3{
+    color: white;
+} */

@@ -44,6 +44,9 @@ body{
     text-decoration: none;
 }
 
+.nav-bar a:hover{
+    color: aqua;
+}
 
 /* contact us  */
 
@@ -140,4 +143,7 @@ body{
     margin-left: 20px;
 }
 
-
+.submit-btn:hover{
+    background-color: aliceblue;
+    color: black;
+}

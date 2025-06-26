@@ -46,6 +46,10 @@ body{
     text-decoration: none;
 }
 
+.nav-bar a:hover{
+    color: aqua;
+}
+
 /* Hero-Section  */
 
 .hero-section{
@@ -74,13 +78,18 @@ body{
     font-size: 15px;
     border: none;
     border-radius: 10px;
+}
+
+.game-now:hover{
+    background-color: aliceblue;
+    color: black;
     
 }
 
 
 /* footer  */
-/* 
-.footer{
+
+/* .footer{
     background-color: rgba(0, 0, 0, 0.733);
     padding: 20px;
     display: flex;

@@ -46,6 +46,11 @@ body{
     text-decoration: none;
 }
 
+.nav-bar a:hover{
+    color: aqua;
+}
+
+
 /* Games  */
 
 
@@ -113,4 +118,9 @@ height: 300px;
     border-radius: 10px;
     margin-left: 20px;
     margin-bottom: 40px;
+}
+
+.games-btn:hover{
+    background-color: aliceblue;
+    color: black;
 }

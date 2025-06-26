@@ -11,8 +11,7 @@
 - 🎯 Modern landing page design
 - 🕹️ Game and mod showcase sections
 - 📦 Download buttons for each release
-- 📱 Fully responsive for mobile and desktop
-- 🧑‍💻 Built using React with clean, modular components
+- 🧑‍💻 Built using HTML, CSS
 
 ---
 

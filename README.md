@@ -19,7 +19,6 @@
 ## 📸 Preview
 
 ![GS GameStation Screenshot](https://github.com/gowrishankar-m-n/GS-GameStation/assets/preview.png)  
-*(Add a screenshot to your GitHub repo at this path)*
 
 ---
 

@@ -1,6 +1,6 @@
 # 🎮 GS GameStation
 
-**GS GameStation** is a sleek and responsive web platform designed to showcase and launch games, mods, maps, and creative content developed by Gowri Shankar. Built with **React.js**, this platform brings together all game-related releases, downloads, and developer updates in one place.
+**GS GameStation** is a sleek and responsive web platform designed to showcase and launch games, mods, maps, and creative content developed by Gowri Shankar. Built with **HTML, CSS**, this platform brings together all game-related releases, downloads, and developer updates in one place.
 
 🌐 **Live Website:** [gs-gamestation.netlify.app](https://gs-gamestation.netlify.app/)
 
@@ -25,7 +25,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React.js, HTML5, CSS3, JavaScript
+- **Frontend:** , HTML5, CSS3,
 - **Deployment:** Netlify
 
 ---
